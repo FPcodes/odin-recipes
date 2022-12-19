@@ -1,11 +1,41 @@
-body {
+.almond-milk {
     background-color: #ccccff;
 }
 
-ul {
-    font-size: 20px;
+div {
+    font-size: 18px;
 }
 
-ol {
-    font-size: 20px;
+.ingredients{
+    background-color: #efeff5;
+    width: 275px;
+    border-style: solid
+}
+
+.steps{
+    background-color: #efeff5;
+    width: 975px;
+    margin: 25px 110px;
+    border-style: solid
+}
+
+span {
+    background-color: white;
+    padding: 3px;
+    border-style: solid;
+    border-width: 2.5px;
+}
+
+.note {
+    background-color: #ff4d4d;
+    color: black;
+    width: 1045px;
+    margin: 25px 80px;
+    padding: 5px;
+    border-style: solid;
+    border-width: 2.5px;
+}
+
+.garlic-butter-shrimp {
+    background-color: bisque;
 }
