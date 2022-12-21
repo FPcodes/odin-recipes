@@ -48,6 +48,15 @@ span {
     border-width: 2.5px;
 }
 
-.garlic-butter-shrimp {
-    background-color: bisque;
+/* top is almond milk, bottom is shrimps */
+
+.shrimp-page {
+    background-color: #ffe4c4;
+}
+
+.shrimp-titles {
+    background-color: white;
+    border-style: solid;
+    margin-right: 520px;
+    margin-left: 485px;
 }
